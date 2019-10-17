@@ -1,7 +1,7 @@
 # investorScreens
 This document is intended to be used by start-ups to make sure their funding is aligned with their company's values. This screen provides some transparency while maintaining LP anonymity.
 
-# What percentage of funding comes from:
+## What percentage of funding comes from:
 * How Many LP's?
 * Pensions:
 * Insurance companies:
@@ -13,7 +13,7 @@ This document is intended to be used by start-ups to make sure their funding is 
 * Foreign militaries (armed/defense)
 * University Endowment
 
-# For each source of investment:
+## For each source of investment:
 ### Entity Type (from above list):
 ### Did this entity create its wealth through:
 * Illegal Activity (in location the entity operated):
@@ -79,7 +79,7 @@ This document is intended to be used by start-ups to make sure their funding is 
 * When searching for "*Entity Name* + animal abuse"
 * When searching for "*Entity Name* + gambling"
 
-## If a negative article was found:
+### If a negative article was found:
 * Which search term was the negative story found for? 
 * Was a negative story published in another reputable source (see reputable source list) about the same subject? 
 * Was the subject matter denied by the entity?
@@ -91,7 +91,7 @@ This document is intended to be used by start-ups to make sure their funding is 
 * Was the subject matter addressed by the entity in a statement?
 * How long ago was the subject matter?
 
-# Reputable Source List: 
+## Reputable Source List: 
 * New York Times
 * AP
 * Reuters
