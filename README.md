@@ -1,7 +1,8 @@
 # investorScreens
-#How Many LP's?
+This document is intended to be used by start-ups to make sure their funding is aligned with their company's values. This screen provides some transparency while maintaining LP anonymity.
 
 # What percentage of funding comes from:
+# How Many LP's?
 * Pensions:
 * Insurance companies:
 * Wealthy Individuals
@@ -79,16 +80,16 @@
 * When searching for "*Entity Name* + gambling"
 
 ## If a negative article was found:
-### Which search term was the negative story found for? 
-### Was a negative story published in another reputable source (see reputable source list) about the same subject? 
-### Was the subject matter denied by the entity?
-### Did the entity respond with a statement about the subject matter?
-### Did the entity respond with a policy change about the subject matter?
-### Did the entity participate in a lawsuit regarding the subject matter?
-### (If Yes to lawsuit): Did this result in a settlement?
-### (If Yes to lawsuit): Did the entity serve a legal punishment?
-### Was the subject matter addressed by the entity in a statement?
-### How long ago was the subject matter?
+* Which search term was the negative story found for? 
+* Was a negative story published in another reputable source (see reputable source list) about the same subject? 
+* Was the subject matter denied by the entity?
+* Did the entity respond with a statement about the subject matter?
+* Did the entity respond with a policy change about the subject matter?
+* Did the entity participate in a lawsuit regarding the subject matter?
+* (If Yes to lawsuit): Did this result in a settlement?
+* (If Yes to lawsuit): Did the entity serve a legal punishment?
+* Was the subject matter addressed by the entity in a statement?
+* How long ago was the subject matter?
 
 # Reputable Source List: 
 * New York Times
