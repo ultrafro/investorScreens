@@ -79,8 +79,8 @@
 * When searching for "*Entity Name* + gambling"
 
 ## If a negative article was found:
-#### Which search term was the negative story found for? 
-#### Was a negative story published in another reputable source (see reputable source list) about the same subject? 
+### Which search term was the negative story found for? 
+### Was a negative story published in another reputable source (see reputable source list) about the same subject? 
 ### Was the subject matter denied by the entity?
 ### Did the entity respond with a statement about the subject matter?
 ### Did the entity respond with a policy change about the subject matter?
