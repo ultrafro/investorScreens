@@ -2,7 +2,7 @@
 This document is intended to be used by start-ups to make sure their funding is aligned with their company's values. This screen provides some transparency while maintaining LP anonymity.
 
 # What percentage of funding comes from:
-# How Many LP's?
+* How Many LP's?
 * Pensions:
 * Insurance companies:
 * Wealthy Individuals
