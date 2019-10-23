@@ -116,3 +116,11 @@ This document is intended to be used by start-ups to make sure their funding is 
 * New Yorker
 
 (based on 25 most popular from Pew Research excluding news aggregators and the addition of the Associated Press and the New Yorker. : [https://www.journalism.org/2011/05/09/top-25/](https://www.journalism.org/2011/05/09/top-25/))
+
+## Questions from Joi 2019/10/22
+
+* Who does the auditing - the fund or some 3rd party auditing org?
+* Are there certain countries that you would ban all together?
+* Is the idea to have a common set of questions for all funds and create a shared system?
+* Is this like ESG [https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp) - Notable that J&J is classified as an ESG.
+* What about nested situations like funds of funds?
