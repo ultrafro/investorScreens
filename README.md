@@ -12,6 +12,7 @@ This document is intended to be used by start-ups to make sure their funding is 
 * Foreign states (non military)
 * Foreign militaries (armed/defense)
 * University Endowment
+* Foundation Endowment
 
 ## For each source of investment:
 ### Entity Type (from above list):
