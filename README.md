@@ -51,7 +51,7 @@ This document is intended to be used by start-ups to make sure their funding is 
 * When searching for "*Entity Name* + Bias"
 * When searching for "*Entity Name* + homophobic"
 * When searching for "*Entity Name* + transgender"
-* When searching for "*Entity Name* + misogeny"
+* When searching for "*Entity Name* + misogyny"
 * When searching for "*Entity Name* + abuse"
 * When searching for "*Entity Name* + worker rights"
 * When searching for "*Entity Name* + sex-trafficking"
