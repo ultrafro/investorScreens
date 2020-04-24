@@ -115,6 +115,7 @@ This document is intended to be used by start-ups to make sure their funding is 
 * CBS News
 * Huffington Post
 * New Yorker
+* New Valid Source
 
 (based on 25 most popular from Pew Research excluding news aggregators and the addition of the Associated Press and the New Yorker. : [https://www.journalism.org/2011/05/09/top-25/](https://www.journalism.org/2011/05/09/top-25/))
 
